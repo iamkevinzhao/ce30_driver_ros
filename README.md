@@ -8,6 +8,12 @@ The `ce30_driver_ros` provides ROS interfaces to the `ce30_driver`.
 
 <img src="media/ce30_pointcloud_in_rviz.png" width="85%">
 
+#### Topics
+
+|         Node         | I/O  | Topic Name  | Message Type                             |
+| :------------------: | :--: | ----------- | ---------------------------------------- |
+| ce30_driver_ros_node | Out  | ce30_points | [sensor_msgs::PointCloud](http://docs.ros.org/api/sensor_msgs/html/msg/PointCloud.html) |
+
 #### Version
 
 - 1.0.0
