@@ -22,7 +22,7 @@ The `ce30_driver_ros` provides ROS interfaces to the `ce30_driver`. For more inf
 
 #### Version
 
-- 1.0.0
+- 1.0.1
 
 #### Dependencies
 
