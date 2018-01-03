@@ -6,6 +6,8 @@ This page is set up for CE30-D SDK technical support. For product information ab
 
 The `ce30_driver_ros` provides ROS interfaces to the `ce30_driver`.
 
+<img src="media/ce30_pointcloud_in_rviz.png" width="85%">
+
 #### Version
 
 - 1.0.0
