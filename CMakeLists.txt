@@ -12,7 +12,7 @@ find_package(catkin REQUIRED COMPONENTS
   sensor_msgs
 )
 
-find_package(ce30_driver)
+find_package(ce30_driver 1.0.6 REQUIRED)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
