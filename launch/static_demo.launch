@@ -1,0 +1,4 @@
+<launch>
+  <node name="ce30_driver_ros_node" pkg="ce30_driver_ros" type="ce30_driver_ros_node"/>
+  <node pkg="tf" type="static_transform_publisher" name="ce30_to_map" args="0 0 0 0 0 0 map ce30 1000"/>
+</launch>

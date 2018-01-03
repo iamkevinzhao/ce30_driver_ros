@@ -180,6 +180,10 @@ install(TARGETS ${PROJECT_NAME}_node
 #   PATTERN ".svn" EXCLUDE
 # )
 
+install(DIRECTORY launch
+  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+)
+
 ## Mark other files for installation (e.g. launch and bag files, etc.)
 # install(FILES
 #   # myfile1
