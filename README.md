@@ -4,7 +4,7 @@ This page is set up for CE30-D SDK technical support. For product information ab
 
 #### Get Started
 
-The `ce30_driver_ros` provides ROS interfaces to the `ce30_driver`. For more information about the `ce30_driver`, click [here](https://codincodee.github.io/ce30_driver).
+The `ce30_driver_ros` provides ROS interfaces to the `ce30_driver`. For more information about the `ce30_driver`, click [here](https://github.com/iamkevinzhao/ce30_driver).
 
 <img src="media/ce30_pointcloud_in_rviz.png" width="85%">
 
@@ -22,12 +22,12 @@ The `ce30_driver_ros` provides ROS interfaces to the `ce30_driver`. For more inf
 
 #### Version
 
-- 1.0.1
+- 2.0.0
 
 #### Dependencies
 
-- [ce30_driver](https://codincodee.github.io/ce30_driver) 1.0.6
-- [ROS](http://www.ros.org/) Kinetic
+- [ce30_driver](https://github.com/iamkevinzhao/ce30_driver) 1.0.6
+- [ROS2-Foxy](http://www.ros.org/) Foxy
 
 #### Quick Access
 
